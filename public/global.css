@@ -1,0 +1,11 @@
+html, body {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	background: #363f4e url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAOklEQVQYV2NgQAN+fpHiPj5x0ujiTOgCuAD1FTK6B8VIIgsw//0v8v8/M8s/ln8vkMWJNhEDDEJfAwCRkAxY7/jElwAAAABJRU5ErkJggg==);
+	overflow: hidden;
+}
